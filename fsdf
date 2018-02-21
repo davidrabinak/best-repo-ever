@@ -1,0 +1,69 @@
+[33mcommit 84e72bedc6942b3820b73679fae7a0b019f25c37[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David Rabinak <d.rabinak@centrum.cz>
+Date:   Wed Jan 3 17:24:01 2018 +0100
+
+    Merged changes 1 and 100
+
+[33mcommit 46e95de45b92b06dc18730f70421169977cff3ba[m
+Author: davidrabinak <34925413+davidrabinak@users.noreply.github.com>
+Date:   Wed Jan 3 17:19:12 2018 +0100
+
+    Add files via upload
+
+[33mcommit c72250137c9cdd5904b12d9d66fa89ee92937f1e[m
+Merge: 665dce6 e181f0d
+Author: davidrabinak <34925413+davidrabinak@users.noreply.github.com>
+Date:   Mon Jan 1 23:04:56 2018 +0100
+
+    Merge pull request #3 from davidrabinak/new-branch-2
+    
+    More changes to the README
+
+[33mcommit e181f0d35a7cf396d41ea953fe03bc299717d60d[m[33m ([m[1;31morigin/new-branch-2[m[33m, [m[1;32mnew-branch-2[m[33m)[m
+Merge: a37d063 665dce6
+Author: David Rabinak <d.rabinak@centrum.cz>
+Date:   Mon Jan 1 23:04:09 2018 +0100
+
+    Commit to resolve merge conflict
+
+[33mcommit 665dce6a7613198acd8f8d40c923cdd469013259[m
+Merge: ca9a906 07299a5
+Author: davidrabinak <34925413+davidrabinak@users.noreply.github.com>
+Date:   Mon Jan 1 22:53:37 2018 +0100
+
+    Merge pull request #2 from davidrabinak/new-branch-1
+    
+    Changes to the README
+
+[33mcommit a37d0635c96fcc8edac6ef7b8f41be620082b12e[m
+Author: David Rabinak <d.rabinak@centrum.cz>
+Date:   Mon Jan 1 22:51:27 2018 +0100
+
+    More changes to the README
+
+[33mcommit 07299a51162180826bfcab193dbb03281c059070[m[33m ([m[1;31morigin/new-branch-1[m[33m, [m[1;32mnew-branch-1[m[33m)[m
+Author: David Rabinak <d.rabinak@centrum.cz>
+Date:   Mon Jan 1 11:41:24 2018 +0100
+
+    Changes to the README
+
+[33mcommit ca9a90654ddc9acfb75866152b309b7a1a387da7[m
+Merge: 445f432 aa0964c
+Author: davidrabinak <34925413+davidrabinak@users.noreply.github.com>
+Date:   Mon Jan 1 11:12:52 2018 +0100
+
+    Merge pull request #1 from davidrabinak/myfeaturebranch
+    
+    My first commit
+
+[33mcommit aa0964c5844894493e6682ebca3031d423aceda6[m[33m ([m[1;31morigin/myfeaturebranch[m[33m, [m[1;32mmyfeaturebranch[m[33m)[m
+Author: David Rabinak <d.rabinak@centrum.cz>
+Date:   Sun Dec 31 01:38:45 2017 +0100
+
+    My first commit
+
+[33mcommit 445f432e811710c6f1e1daeabb160dacd82af7c8[m
+Author: davidrabinak <34925413+davidrabinak@users.noreply.github.com>
+Date:   Thu Dec 28 23:28:36 2017 +0100
+
+    Initial commit
